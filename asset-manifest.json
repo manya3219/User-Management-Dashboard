@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Users-Management/static/css/main.ca1e7d74.css",
-    "main.js": "/Users-Management/static/js/main.e4fcc96c.js",
-    "index.html": "/Users-Management/index.html",
-    "main.ca1e7d74.css.map": "/Users-Management/static/css/main.ca1e7d74.css.map",
-    "main.e4fcc96c.js.map": "/Users-Management/static/js/main.e4fcc96c.js.map"
+    "main.css": "/User-Management-Dashboard/static/css/main.ca1e7d74.css",
+    "main.js": "/User-Management-Dashboard/static/js/main.e4fcc96c.js",
+    "index.html": "/User-Management-Dashboard/index.html",
+    "main.ca1e7d74.css.map": "/User-Management-Dashboard/static/css/main.ca1e7d74.css.map",
+    "main.e4fcc96c.js.map": "/User-Management-Dashboard/static/js/main.e4fcc96c.js.map"
   },
   "entrypoints": [
     "static/css/main.ca1e7d74.css",
